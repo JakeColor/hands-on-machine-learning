@@ -1,0 +1,1 @@
+A set of exercises from Geron's "Hands-on Machine Learning" (2017)
